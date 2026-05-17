@@ -1,4 +1,4 @@
- Raridade-Est-tica-Automotiva-
+ Raridade-Estetica-Automotiva-
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
